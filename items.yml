@@ -1,0 +1,13 @@
+using_ids: true
+worlds:
+    - world
+items:
+    2:
+        type: '1:4'
+        name: "&9FLY SELECTOR"
+        amount: 1 
+        lore:
+          - "&cClick"
+          - "&bto toggle fly-mode"
+        commands:
+            - "fly"
